@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -24,6 +25,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+
+    // 👇 Add this section
+    Component.ConditionalRender({
+      // only show this on the homepage (index.md)
+      component: Component.RecentNotes({
+        limit: 5,         // show up to 5 latest posts
+        showTags: true,   // display post tags
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -46,6 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 }
+
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
