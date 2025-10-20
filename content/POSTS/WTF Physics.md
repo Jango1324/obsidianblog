@@ -129,4 +129,7 @@ now...
 after caluclate magnitude , its ur distance
 to find angle you typically do Y/x aka slope but there are some tricks with direction
 
+add the distances in the same direction and substract those that are no no
+
+
 
