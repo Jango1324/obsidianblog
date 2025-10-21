@@ -7,7 +7,8 @@ longform:
   scenes:
     - 10.18.2025 What is going on
     - WTF Physics
-    - Math notes + Prof's work
+    - Math notes
+    - Professor's work
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---

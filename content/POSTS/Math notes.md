@@ -2,7 +2,8 @@
 title: Sky is blue and Grass is green
 draft: false
 tags:
-  - 
+  - study
+  - school
 ---
 # Step by step logic in math
 So, there are many derivatives to calculate and most of them follow either quotient, chain or power rule. Except the X^x (x to the power of x)
