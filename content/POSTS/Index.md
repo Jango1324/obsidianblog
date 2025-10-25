@@ -9,6 +9,7 @@ longform:
     - WTF Physics
     - Math notes
     - Professor's work
+    - I need to change
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---
