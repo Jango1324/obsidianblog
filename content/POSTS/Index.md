@@ -10,6 +10,7 @@ longform:
     - Math notes
     - Professor's work
     - I need to change
+    - DAILY RECAP
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---
