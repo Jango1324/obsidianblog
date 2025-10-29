@@ -11,6 +11,7 @@ longform:
     - Professor's work
     - I need to change
     - DAILY RECAP
+    - 28th October Daily Recap
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---
