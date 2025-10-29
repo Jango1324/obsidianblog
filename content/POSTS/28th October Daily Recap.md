@@ -45,3 +45,22 @@ ok so
 |`Arrays.stream(arr)`|Creates a Stream (for filtering, sum, etc.)|`int sum = Arrays.stream(nums).sum();`|
 |`Arrays.hashCode(arr)`|Generates a hash for an array|`int h = Arrays.hashCode(nums);`|
 |`System.arraycopy(src, start1, dest, start2, length)`|Fast copy of one array to another|`System.arraycopy(a, 0, b, 0, 3);`|
+
+
+## import java.util.ArrayList; class commands
+| Method               | Description                        | Example                            |
+| -------------------- | ---------------------------------- | ---------------------------------- |
+| `add(value)`         | Adds element to end                | `list.add("Hi");`                  |
+| `add(index, value)`  | Inserts element at position        | `list.add(2, "Wow");`              |
+| `get(index)`         | Returns element at position        | `System.out.println(list.get(0));` |
+| `set(index, value)`  | Replaces element                   | `list.set(1, "New");`              |
+| `remove(index)`      | Removes element at position        | `list.remove(2);`                  |
+| `remove(Object)`     | Removes first occurrence of object | `list.remove("Hi");`               |
+| `size()`             | Returns number of elements         | `System.out.println(list.size());` |
+| `clear()`            | Removes all elements               | `list.clear();`                    |
+| `contains(value)`    | Checks if list has a value         | `list.contains("Hi");`             |
+| `isEmpty()`          | True if list has no elements       | `list.isEmpty();`                  |
+| `indexOf(value)`     | Returns first index of element     | `list.indexOf("Hi");`              |
+| `lastIndexOf(value)` | Returns last index of element      | `list.lastIndexOf("Hi");`          |
+| `toArray()`          | Converts list → array              | `Object[] arr = list.toArray();`   |
+| `equals(list2)`      | Compares lists                     | `list1.equals(list2);`             |
