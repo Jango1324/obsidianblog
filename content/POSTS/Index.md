@@ -12,6 +12,7 @@ longform:
     - I need to change
     - DAILY RECAP
     - 28th October Daily Recap
+    - October 29th Daily Recap
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---
