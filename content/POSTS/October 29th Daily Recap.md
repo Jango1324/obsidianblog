@@ -27,12 +27,14 @@ There are some sneaky shit in which you can use L'hopital for example you may re
 ab = a/(b^-1) and then use l'hopital lol
 why tf? cuz algebra makes it work because you keep change flip and you get ab
 REMEMBER YOUR AIM IS TO GET 
-									(∞/∞) OR (0/0)
+
+
+∞/∞) OR (0/0) OR 0 * (+- ∞) OR (0^0) or (∞^0) or ( 1^∞)
+
 REGARDLESS
 
 THERE WILL ALWAYS BE 1 FUCKING ASS EQUATION AND 1 THAT IS WORTH LIVING
 So, just practice for it lol there is no way of picking 
-
 
 
 # COMPUTER FLUENCY (JAVASCRIPT)
