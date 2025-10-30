@@ -23,6 +23,13 @@ bascially
    !!! DONT USE QUOTIENT RULE IN L'HOPITAL ITS IMPORTANT AF"
 3) after you get the derivative plug in 0 or infinity and check again, if you still get (0/0) or (infinity/infinity) then keep going until x vanishes from denominator (bottom)
 
+There are some sneaky shit in which you can use L'hopital for example you may re write this shit
+ab = a/(b^-1) and then use l'hopital lol
+why tf? cuz algebra makes it work because you keep change flip and you get ab
+REMEMBER YOUR AIM IS TO GET 
+									(∞/∞) OR (0/0)
+REGARDLESS
+
 
 
 
