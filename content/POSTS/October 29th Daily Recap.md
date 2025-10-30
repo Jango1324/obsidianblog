@@ -30,6 +30,8 @@ REMEMBER YOUR AIM IS TO GET
 									(∞/∞) OR (0/0)
 REGARDLESS
 
+THERE WILL ALWAYS BE 1 FUCKING ASS EQUATION AND 1 THAT IS WORTH LIVING
+So, just practice for it lol there is no way of picking 
 
 
 
