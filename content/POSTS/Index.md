@@ -13,6 +13,8 @@ longform:
     - DAILY RECAP
     - 28th October Daily Recap
     - October 29th Daily Recap
+    - Cooking SAT like its my bitch
+    - 4th November RECAP
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---
