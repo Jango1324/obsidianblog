@@ -15,6 +15,7 @@ longform:
     - October 29th Daily Recap
     - Cooking SAT like its my bitch
     - 4th November RECAP
+    - Mechanical keyboard, , Internet Stranded Lullaby, lack of sleep and intimate stuff
   sceneTemplate: templates/Posts template.md
   ignoredFiles: []
 ---
